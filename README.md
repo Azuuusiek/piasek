@@ -1,2 +1,3 @@
-# piasek
-kursorem sypiemy piasek 
+# SandSimulation
+
+Pour and scatter sand dynamically using the mouse cursor.
